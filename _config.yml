@@ -2,7 +2,7 @@
 title: Mohamed Zaatar Blog
 description: 'Mohamed Zaatar Blog'
 url: 'http://mzaatar.github.io/'
-baseurl: '/'
+baseurl: 'http://mzaatar.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
