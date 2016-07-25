@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blogging with Github and Jekyll!"
-date:   2016-07-16 18:00:00 +0800
+date:   2016-07-25 9:00:00 +0800
 categories: Jekyll blog theme Github
 ---
 
