@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AWS simpler"
-date:   2016-07-16 18:00:00 +0800
+date:   2016-07-25 10:00:00 +0800
 categories: AWS Amazon Cloud
 ---
 
