@@ -5,9 +5,10 @@ date:   2016-07-25 10:00:00 +0800
 categories: AWS Amazon Cloud
 ---
 
-I'm studying and exploring AWS (Amazon Web Service). My main source for these definitions is [ACloudGuru](https://acloud.guru/) course.
+I'm studying and exploring AWS (Amazon Web Service). I found AWS services too much to memorize. So, I created a list _AWS Simpler_. Breifly, I define all AWS services and products within groups with very simple words. 
 
-I found AWS services too much to memorize so I created a list and I called it _AWS Simpler_. Simply, I would like to define all AWS services and products definitions within groups with very simple words.
+My main source for these definitions is [ACloudGuru](https://acloud.guru/) course.
+
 And I want to share it with the internet!
 
 * **General**
