@@ -2,7 +2,7 @@
 title: Mohamed Zaatar Blog
 description: 'A Readify developer/consultant. Passionate about Software development, IT and cars. This blog for my technical and personal views.'
 url: 'http://mzaatar.github.io/'
-baseurl: '/'
+baseurl: 'http://mzaatar.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
