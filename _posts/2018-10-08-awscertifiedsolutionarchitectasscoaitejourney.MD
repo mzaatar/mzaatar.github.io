@@ -1,14 +1,19 @@
-# My journey to AWS Certified Solutions Architect - Associate
+---
+layout: post
+title: "My journey to AWS Certified Solutions Architect - Associate"
+date: 2018-10-8 16:00:00 +0800
+categories: aws amazon web services certification acloudguru readify professional development
+---
 
 Following my announcement with my journey towards getting AWS Certified Solutions Architect - Associate (Feb 2018 version) certification, I received numerous requests to share my experience with AWS and how I successfully managed to pass it from the first time with little experience.
 
-## A bit of history
+# A bit of history
 
 First a bit of my background, I'm Mo who works with [Readify](https://readify.net/) as a Senior Software Consultant. I have more than 12 years diverse experience with many technologies including Azure. I have good cloud knowledge but AWS wasn't my thing before I started looking into it in 2016 as part of my professional development. I have a little AWS experience from many online courses and local Meetups sessions.
 
-## My journey
+# My journey
 
-### A Cloud Guru
+## A Cloud Guru
 
 I started looking into AWS certifications and planning to do it only two month ago (late July 2018). I started with doing my research  to look into AWS and found that the Ozzy guy Ryan Kroonenburg crafted perfect courses that target the AWS certificates on [A Cloud Guru](https://acloud.guru/). 
 The course is 22 hours of videos that are focused on the certification. I took me around 50 hours to run through the whole videos, writing my side notes and doing most of the labs.  
@@ -27,7 +32,7 @@ My thoughts around the course:
 
 Side note: I bought it from my [Udemy](https://www.udemy.com/aws-certified-solutions-architect-associate/learn/v4/content) for A$15. Why Udemy? Because it was cheaper than the subscription from ACloudGuru with life-time access. I understand that some people that don't like Udemy as there is some news around Udemy and privacy. I fully understand it and that I made sure that the Author of the course is the one who distributes the course on Udemy so there is no privacy issue behind my purchase. But I wouldn't purchase it if it was stolen one.
 
-### AWS sample questions and practice test
+## AWS sample questions and practice test
 
 After spending around two weeks and completed the A Cloud Guru course, it gave me the first steps into learning the AWS platform and the exam. But I wasn't sure that I'm ready for the exam and a bit hesitated to book it. So, I started looking into practice exams. I found the official AWS sample questions [Link](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions%20Architect_Associate_Feb_2018_Sample%20Questions_v1.0.pdf) and tried it and got 7 out of 10 right which is great but what I need. It gave me a small light but I wanted to have more practice so I went to the paid AWS practice exam which is almost half exam only - 25 questions in 30 minutes for almost A$30. I answered them in less 30 minutes, and I passed it. I found it easier than I thought and more abstracted as well without too much numbers and details.
 
@@ -52,11 +57,11 @@ My thoughts around sample questions and practice test:
 
 Side note: when I went to buy the AWS Certified Solutions Architect - Associate (Feb 2018 version) practice exam, I wrongly purchased the professional architect one and paid around A$60 for it and didn't realize it. I went through it and failed to pass it. I got 32% score and found it very hard. This is a bad time as I had a bad night till discussing my results with one of my friends at Readify who told me that I went with the wrong practice exam which the professional exam. I was aware that there are three exams associate and the professional one. But I'm human being (and assume you are too) so take care what are you about to purchase.
 
-### AWS White-papers and FAQs
+## AWS White-papers and FAQs
 
 After that I should go and read the whitepapaers and FAQs pdfs according to ACloudGuru and the exam preparation guide recommendations [Link](https://aws.amazon.com/certification/certification-prep/). But what happened that I decided to ignore them. This was because of being an "Abstract Thinkers" guy (INTP personality). You can read more about that [INTP personality "The Logican"](https://www.16personalities.com/intp-personality). I was afraid to deep dive into the details of each service and its huge information on cost, models, numbers etc. It thought it would distract me from understand and absorb what I have learnt already. Again, this is my personal way of learning, in the first shot I wouldn't give too much attention to the fine details. I was wrong about not reading these docs and will tell you more later why.
 
-### WhizLabs
+## WhizLabs
 
 Later on, I got more confidence but I wanted more practice. So, I found [WhizLabs AWS Solutions Architect Associate practice exams](https://www.whizlabs.com/aws-solutions-architect-associate/). Again, I signed up to take their [WhizLabs free practice test](https://www.whizlabs.com/aws-solutions-architect-associate/free-test/). It is 20 questions in 40 minutes. I went through it and got 70% pass score which is good but I found that there were many questions similar to the official AWS practice exam so I decided to go and buy the full ones [WhizLabs 7 practice tests and section-based tests](https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/). This consists of 7 full practice exams and small 11 section-based tests (between 10-25 questions) covering VPC, S3, EFS, API Gateway, ECS, Lambda, EBS, STS, SNS, SQS, ELB, Auto Scaling, Route53 and general one. The cost was ~ A$25 for it (all of these questions). Which I thought it is a great deal so I bought this one. Also, in the same day, I booked my AWS exam two weeks away as I found the practice tests that would make me confident enough.
 
@@ -76,7 +81,7 @@ My thoughts around WhizLabs:
   - The section-based tests should be a part of the tests as they have the tricks questions for each service. I didn't see the point of splitting the platform into 7 practices and the section-based tests.
   - The 7 practice questions could give you a false confidence that you can pass while you are missing many important points  
 
-### The exam
+# The exam
 
 I went that day and started the exam on time. I struggled to scan my driver license and was a bit nervous but the technical support person understood there was something wrong and helped me. I started and it took from me almost one hour to answer all questions with almost 15-17 questions marked to review. And it took from me another hour to review most of the questions and focus the marked questions and think again about them. Sadly, the exam session stopped working twice but I was aware of this issue as one of my friends told me about it. Again the technical support person helped me in the two times and got me back on track again without losing any progress (Thanks for whoever was there monitoring me).
 
@@ -96,7 +101,7 @@ The tricky questions in the exam are around (as far as I remember):
 - Options of how put for db and app server into EC2 containers
 - App A and app B with mixed range of subnets, need A to call b but b cannot call A
 
-My overall experience tips:
+# My overall experience tips
 
 - It is a very tricky exam and not easy for people without any cloud experience
 - Go for ACloudGuru for training and WhizLabs for tests practices
