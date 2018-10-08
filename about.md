@@ -11,23 +11,16 @@ I work for [Readify](http://readify.net) as Software Developer/Consultant.
 
 # Technical Profile
 
-I have 9+ years in software development and implementation with many success stories.
-I hold a bachelor and masters degrees in Computer Sciences.
+Mo has a horizontal knowledge and strong experience in many different technologies. He advances his breadth of experience every day with new technology and knowledge. His focus now is mobile development in cloud-computing environments. He is the organiser of Xamarin Perth UG.
 
-My expertise is almost around Microsoft Stack but I have knowledge and some experience in Other worlds as well. I'm a Microsoft Certified Application Developer `MCAD` and Sun Certified Java Programmer `SCJP` since 2006.
-
-In 2015, I recertified myself against new Microsoft stack and became MCP for `Programming in HTML5 with JavaScript and CSS3` and `Developing ASP.NET MVC Web Applications`.
-
-And I'm proudly a `Professional Scrum Master`. 
-
+He is a PSM (Professional Scrum Master I), Microsoft Certified Professional (Web), Sun Certified Java Programmer (SCJP 1.5) and recently an AWS Certified Solution Architect - associate. He is well versed in Microsoft technologies including the .NET platform as well as several common database platforms and NoSQL as well.
 
 # Personal Profile
 
-I'm a husband for a beautiful wife Riham, a brother for an amazing dentist Hesham, and a friend.
+I'm a husband for a beautiful wife, Riham. A brother for an amazing dentist Hesham. A friend for many people. A terrible fisher.
 
+## Questions
 
-
-### Questions?
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/Mzaatar/mzaatar.github.io/issues/new).
 
 Thanks for reading!
